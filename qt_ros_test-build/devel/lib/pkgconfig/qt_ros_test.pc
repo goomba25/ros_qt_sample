@@ -1,8 +1,0 @@
-prefix=/home/hills/catkin_ws/src/ROS_QT_GUI/qt_ros_test-build/devel
-
-Name: qt_ros_test
-Description: Description of qt_ros_test
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: roscpp std_msgs

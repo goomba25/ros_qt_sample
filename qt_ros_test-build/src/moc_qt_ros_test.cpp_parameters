@@ -1,8 +1,0 @@
--I/home/hills/catkin_ws/src/ROS_QT_GUI/qt_ros_test
--I/home/hills/catkin_ws/src/ROS_QT_GUI/qt_ros_test-build
--DROS_BUILD_SHARED_LIBS=1
--DROS_PACKAGE_NAME="qt_ros_test"
--DROSCONSOLE_BACKEND_LOG4CXX
--o
-/home/hills/catkin_ws/src/ROS_QT_GUI/qt_ros_test-build/src/moc_qt_ros_test.cpp
-/home/hills/catkin_ws/src/ROS_QT_GUI/qt_ros_test/src/qt_ros_test.h
