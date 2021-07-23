@@ -1,8 +1,4 @@
-reference sample
-
-## Author
-- **Welin**  2018.02.23
-- modified in 2018.10.31
+reference sample - **Welin**
 
 ## Overview
 In the project, so many ways are provided to implement ROS-Qt GUI, namely rqt, such as qt4, qt5, pyqt4. Also ROS could be treated as a open-source library to extend some other module by using CMAKE, not just using catkin_make/rosbuild, to make the development more flexible.
